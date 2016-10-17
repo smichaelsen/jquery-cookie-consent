@@ -1,0 +1,10 @@
+{
+  "name": "jquery-cookie-consent",
+  "authors": [
+    "Sebastian Michaelsen <sebastian@michaelsen.io>"
+  ],
+  "description": "Controls a cookie notification box as required by EU law.",
+  "main": "js/jQuery.cookieConsent.js",
+  "license": "MIT",
+  "homepage": "https://github.com/smichaelsen/jquery-cookie-consent"
+}
